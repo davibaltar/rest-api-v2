@@ -1,4 +1,4 @@
-# rest-api-v1
+# rest-api-v2
 A simple REST API developed using the Express.js framework. The API contains: Communication via HTTP and HTTPS, communication with the MySQL database using ORM Sequelize, JWT authentication + SHA-256, documentation with Swagger, endpoints management and metrics with Swagger-stats, files to the Docker, CORS control, route control, testing endpoints using Jest, a simple CRUD, among others.
 
 | Project Info |

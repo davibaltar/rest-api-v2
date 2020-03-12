@@ -112,3 +112,7 @@ public.key
 private.key
 
 drafts/
+
+.DS_Store
+
+draft.js
